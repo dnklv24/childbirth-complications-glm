@@ -13,4 +13,4 @@ This project involves a data-driven analysis of the factors influencing childbir
 * **Predictive Modeling:** Built a binomial logistic regression model to estimate the probability of complications.
 * **Statistical Validation:** Evaluated model capacity using ROC curves and AUC metrics to extract meaningful healthcare insights.
 
-* Note: The raw dataset is not included in this repository due to size limits, but can be provided upon request.
+Note: The raw dataset is not included in this repository due to size limits, but can be provided upon request.
